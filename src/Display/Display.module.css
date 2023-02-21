@@ -1,0 +1,8 @@
+.card__display{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: auto;
+    width: 100vw;
+    background-color: #7ccffb;
+}
